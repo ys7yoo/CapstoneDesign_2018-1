@@ -3,7 +3,7 @@ Collection of repositories of Capstone Design Class, Spring 2018
 
 ## Team assignments
 
-### Make Team
+### Maker Team
 * 장원진
 * 박주영
 * 조성우
