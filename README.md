@@ -8,7 +8,7 @@ Repositories of Capstone Design - SW Track, Spring 2018
 * 박주영
 * 조성우
 * 김소연, 박재림
-* 신동익
+* 신동익 - [Puzzle Drum](https://github.com/DonGikS/puzzledrum_project)
 * 백승엽
 
 ### Industry team
