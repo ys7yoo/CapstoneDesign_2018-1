@@ -19,5 +19,3 @@ Repositories of Capstone Design - SW Track, Spring 2018
 * 장영진, 조수진, 한상훈, 황민희 - 생활속 IoT
 * 김성재, 노홍철, 최진영, 정상진
 * 이경현, 민지영 - Gesture recognition (EMG, machine learning)
-
-## Repositorires (*TO BE ADDED*)
