@@ -1,5 +1,5 @@
 # Capstone Design (2018-1)
-Repositories of Capstone Design Class - SW Track, Spring 2018
+Repositories of Capstone Design - SW Track, Spring 2018
 
 ## Team assignments
 
