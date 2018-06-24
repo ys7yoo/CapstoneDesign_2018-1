@@ -4,7 +4,7 @@ Repositories of Capstone Design - SW Track, Spring 2018
 ## Team assignments
 
 ### Maker Team
-* 장원진
+* 장원진 - [Udonstory](https://github.com/Jangwonjin/udonstory)
 * 박주영
 * 조성우
 * 김소연, 박재림
