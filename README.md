@@ -8,7 +8,7 @@ Repositories of Capstone Design - SW Track, Spring 2018
 * 박주영 - [ALSASA](https://github.com/jooyoung0525/ALSASA_project)
 * 조성우 - 
 * 김소연, 박재림 - [쓰담쓰다](https://github.com/ParkJaeRim/MAKER)
-* 신동익 - [Puzzle Drum](https://github.com/DonGikS/puzzledrum_project)
+* 신동익 - [Puzzle Drum](https://github.com/DonGikS/project_caps)
 * 백승엽 -[link](https://github.com/BaekSeungYeop/Team_Project_Real_Final_Last)
 
 ### Industry team
