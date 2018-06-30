@@ -23,4 +23,4 @@ Repositories of Capstone Design - SW Track, Spring 2018
 ### Research team
 * 장영진, 조수진, 한상훈, 황민희 - [음성인식을 기반으로 한 스마트홈](https://github.com/IncheonMakerB/capstone-design)
 * 김성재, 노홍철, 최진영, 정상진 - [Pronunciation Correction Apllication for a hearing-impaired person](https://github.com/JungSangJin/jung-sang-jin)
-* 이경현, 민지영 - [RoboticHand-EMG](https://github.com/Jovinus/RoboticHand-EMG)
+* 이경현, 민지영 - [RoboticHand-EMG (근전도 신호 기반의 손 제스처 인식을 이용한 로봇 손 제어)](https://github.com/Jovinus/RoboticHand-EMG)
