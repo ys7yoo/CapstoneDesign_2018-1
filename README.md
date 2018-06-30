@@ -18,7 +18,7 @@ Repositories of Capstone Design - SW Track, Spring 2018
 [link3](https://github.com/jiown917/industry_A_People_count),
 [link4](https://github.com/jiown917/industry_A_People_count_2)
 
-* 조성우, 박주영, 김소연, 박재림, 최유준 - [Balancing Bot](https://github.com/joswoo/Industry_B)
+* 조성우, 박주영, 김소연, 박재림, 최유준 - [Balancing Bot](https://github.com/joswoo/Industry_B) [video](https://youtu.be/iVVoLgYuxLA)
 
 ### Research team
 * 장영진, 조수진, 한상훈, 황민희 - [음성인식을 기반으로 한 스마트홈](https://github.com/IncheonMakerB/capstone-design)
