@@ -10,12 +10,7 @@ Repositories of Capstone Design - SW Track, Spring 2018
 * 신동익 - [Puzzle Drum](https://github.com/DonGikS/project_caps)
 
 ## Industry team
-* 김수민, 유지원, 이수미, 윤여준 - 패턴인식 기반 실내위치 파악이 가능한 에어컨 프로토타입
-[link1](https://github.com/jiown917/industry_A_FaceDetect),
-[link2](https://github.com/jiown917/industry_A_Hand_Gesture),
-[link3](https://github.com/jiown917/industry_A_People_count),
-[link4](https://github.com/jiown917/industry_A_People_count_2)
-
+* 김수민, 유지원, 이수미, 윤여준 - [패턴인식 기반 실내위치 파악이 가능한 에어컨 프로토타입](https://github.com/jiown917/Industry_A/) ([video](https://youtu.be/iK7Q0zZREhU))
 * 조성우, 박주영, 김소연, 박재림, 최유준 - [Balancing Bot](https://github.com/joswoo/Industry_B) ([video](https://youtu.be/iVVoLgYuxLA))
 
 ## Research team
