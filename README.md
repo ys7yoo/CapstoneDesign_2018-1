@@ -7,7 +7,7 @@ Repositories of Capstone Design - SW Track, Spring 2018
 * 박주영, 백승엽 -  [ALSASA](https://github.com/jooyoung0525/ALSASA_project) ([video](https://youtu.be/RdGiWGLQSXQ))
 * 조성우 - [HOLO](https://github.com/joswoo/Maker) ([video1](https://youtu.be/9xPwZn2B504),[video2](https://youtu.be/IMnppjnzoVc))
 * 김소연, 박재림 - [쓰담쓰다](https://github.com/ParkJaeRim/MAKER)
-* 신동익 - [Puzzle Drum](https://github.com/DonGikS/project_caps)
+* 신동익 - [Puzzle Drum](https://github.com/DonGikS/project_caps) ([video](https://youtu.be/op9br8-tPJI))
 
 ## Industry team
 * 김수민, 유지원, 이수미, 윤여준 - [패턴인식 기반 실내위치 파악이 가능한 에어컨 프로토타입](https://github.com/jiown917/Industry_A/) ([video](https://youtu.be/iK7Q0zZREhU))
