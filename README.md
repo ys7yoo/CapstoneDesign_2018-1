@@ -3,9 +3,9 @@ Repositories of Capstone Design - SW Track, Spring 2018
 
 
 ## Maker Team
-* 장원진 - [Udonstory](https://github.com/Jangwonjin/udonstory) ([video](https://www.youtube.com/watch?v=f02bA4Q4HMM))
+* 장원진 - [Udonstory](https://github.com/Jangwonjin/udonstory) ([video](https://youtu.be/f02bA4Q4HMM))
 * 박주영, 백승엽 -  [ALSASA](https://github.com/jooyoung0525/ALSASA_project) ([video](https://youtu.be/RdGiWGLQSXQ))
-* 조성우 - [link](https://github.com/joswoo/Maker)
+* 조성우 - [HOLO](https://github.com/joswoo/Maker) ([video1](https://youtu.be/9xPwZn2B504),[video2](https://youtu.be/IMnppjnzoVc))
 * 김소연, 박재림 - [쓰담쓰다](https://github.com/ParkJaeRim/MAKER)
 * 신동익 - [Puzzle Drum](https://github.com/DonGikS/project_caps)
 
